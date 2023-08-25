@@ -1,6 +1,6 @@
 {
-  "name": "react-ui-wow-ts",
-  "version": "0.0.1",
+  "name": "@iheanyi001/react-ui-wow-ts",
+  "version": "0.0.5",
   "description": "A react animation library",
   "scripts": {
     "rollup": "rollup -c"
