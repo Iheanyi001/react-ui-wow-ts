@@ -1,5 +1,5 @@
 {
-  "name": "react-ui-wow",
+  "name": "react-ui-wow-ts",
   "version": "0.0.1",
   "description": "A react animation library",
   "scripts": {
@@ -24,5 +24,13 @@
   "files": [
     "dist"
   ],
-  "types": "dist/index.d.ts"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Iheanyi001/react-ui-wow-ts.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "types": "dist/index.d.ts",
+  "type": "module"
 }
